@@ -4,6 +4,7 @@
   "description": "A Node.js event emitter implementation with namespaces, wildcards, TTL and browser support.",
   "keywords": ["event", "events", "emitter", "eventemitter"],
   "author": "hij1nx <paolo@async.ly> http://twitter.com/hij1nx",
+  "_author":"MrWoo <wukaidong@163.com>",
   "contributors": [
     "Eric Elliott",
     "Charlie Robbins <charlie@nodejitsu.com> http://twitter.com/indexzero",
