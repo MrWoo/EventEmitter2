@@ -53,7 +53,7 @@ exports.indirectInstanceOf = function(obj, cls) {
 
 
 // Turn this off if the test should not check for global leaks.
-exports.globalCheck = true;
+exports.globalCheck = false;
 
 process.on('exit', function() {
   if (!exports.globalCheck) return;
